@@ -5,7 +5,7 @@ reading_time:     true
 words_per_minute: 200
 url:  http://hrwang.github.io/liuyxpp.github.io                  # blank for local preview
 #url: http://ngpy.org   # for production
-header-img: images/homepage.jpg
+header-img: images/homepage-plain.jpg
 excerpt_separator: "<!--more-->"
 
 # Owner/author information
