@@ -3,8 +3,8 @@ description:      "Dr. Yi-Xin Liu is a lecturer and researcher working in the fi
 disqus_shortname: ngpy
 reading_time:     true
 words_per_minute: 200
-url:  http://hrwang.github.io/liuyxpp.github.io                  # blank for local preview
-#url: http://ngpy.org   # for production
+#url:  http://hrwang.github.io/liuyxpp.github.io                  # blank for local preview
+url: http://hrwang.me   # for production
 header-img: images/homepage-plain.jpg
 excerpt_separator: "<!--more-->"
 
