@@ -9,11 +9,14 @@
 - title:    Publications
   url:      /publications/
 
-#- title:    Software
-#  url:      /software/
+- title:    Software
+  url:      /software/
 
 - title:    Blog
   url:      /blog/
 
 - title:    About
   url:      /about/
+
+- title:    Hobbies
+  url:      /hobbies/
